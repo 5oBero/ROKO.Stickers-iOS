@@ -1,0 +1,12 @@
+PODS:
+  - frmtst (1.9.79)
+
+DEPENDENCIES:
+  - frmtst
+
+SPEC CHECKSUMS:
+  frmtst: 7f3a644a389c5b114172a6026cf5a0f6f44edce8
+
+PODFILE CHECKSUM: dab8f5fc8d2ba091c96e02a504520ec2c40b920c
+
+COCOAPODS: 1.2.0.beta.3
