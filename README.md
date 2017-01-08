@@ -1,4 +1,4 @@
-# ROKO.Stickers.iOS-Demo-APP
+# ROKO.Stickers.iOS
 
 Here at ROKO, we’ve discovered, it’s simple to add some extra delight in the user experience by integrating stickers with the camera component of your app. Interested in adding stickers to your app? We have a component for you! With ROKO Stickers, you can easily upload and deploy your own custom, branded stickers that users can add to photos in your app. Without any intervention from developers, you can set up your own custom sticker packs and release them to your users. Secure branding on content created in your app by adding a simple watermark with a sticker. You can even have your loyal users add stickers to their photos to create authentic engagement with your audience and original user generated content for future marketing endeavors.
 
