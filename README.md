@@ -6,7 +6,7 @@ Here at ROKO, we’ve discovered, it’s simple to add some extra delight in the
 ROKO Mobi provides app developers and product owners with a suite of tools to accelerate mobile development, engage and track customers, and measure their app's success
 
 See here for ROKO Mobi documentation, interaction guides, and instructions:
-https://docs.roko.mobi/docs/roko-stickers
+https://docs.roko.mobi/docs/sticker-photo-app
 
 ## Xcode Project Settings
 Open workspace in Xcode:
