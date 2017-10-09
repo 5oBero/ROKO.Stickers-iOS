@@ -15,3 +15,5 @@ Open your `.workspace` file in Xcode:
 5. Add a new key to your `info.plist` file
   - Key: `ROKOMobiAPIToken`
   - Value: Your API key ([instructions for retrieving your API key](https://docs.instabot.io/docs/web-basic-setup#section-1-get-your-instabot-api-key))
+	
+#### If you don't have an account yet, please email us at info@instabot.io and we'll get you set up!
